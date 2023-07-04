@@ -1,0 +1,18 @@
+	 welcome Bill Area
+ Bill No:75611
+ Customer Name:somu
+ Phone NO:9044021463
+-------------------------------------
+ Products		QTY		Price
+-------------------------------------
+ Lipstik		 4		160
+ Soap		 5		300
+ Daal		 7		1330
+ Frooti		 10		1200
+-------------------------------------
+ Cosmetic Tax				23.0
+ Grocery Tax				66.5
+ ColdDrinks Tax				60.0
+-------------------------------------
+ Total Bill				3139.5
+-------------------------------------

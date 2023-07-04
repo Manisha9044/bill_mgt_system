@@ -1,0 +1,19 @@
+	 welcome Bill Area
+ Bill No:44826
+ Customer Name:manisha
+ Phone NO:9044022463
+-------------------------------------
+ Products		QTY		Price
+-------------------------------------
+ Lipstik		 6		240
+ Bodylosan		 7		280
+ Daal		 6		1140
+ Frooti		 4		480
+ Nimbooz		 9		900
+-------------------------------------
+ Cosmetic Tax				26.0
+ Grocery Tax				57.0
+ ColdDrinks Tax				69.0
+-------------------------------------
+ Total Bill				3192.0
+-------------------------------------
